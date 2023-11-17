@@ -1,8 +1,6 @@
 # Little Lemon Restaurant
 This project was built using React.
 
-Use the following link to see the project live, [Little Lemon](https://bongani001.github.io/little-lemon-web-app).
-
 ## About the project
 ### Implementations:
 <ul>
